@@ -1,6 +1,6 @@
 int counter1, counter2;
-int pin1 = 8;
-int pin2 = 13;
+int pin1 = 7;
+int pin2 = 12;
 int status1 = 0;
 int status2 = 0;
 int result[2];
